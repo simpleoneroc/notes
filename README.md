@@ -6,7 +6,7 @@
 **什么是HTML？**
 
 
--- `超文本标记语言` (Hyper Text Markup Language)
+-- `超文本标记语言` (Hyper Text Markup Language) /br
 -- 不是一种编程语言，而是一种`标记语言` (markup language)
 -- 标记语言是一套标记标签 (markup tag)
 -- HTML 使用标记标签来描述网页
